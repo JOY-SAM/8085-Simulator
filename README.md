@@ -2,7 +2,7 @@
 8085 Simulator free to download and use 
 
 # Download Here : 
-https://drive.google.com/file/d/1KYH_7Ut4BzFbo1rC_za_DPduZz1kpdtK/view?usp=sharing
+https://www.joysam.me/8085-simulator/download/
 
 # For doubts : 
 https://youtu.be/D36Od01d7cg
